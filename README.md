@@ -1,4 +1,4 @@
-#用tendermint构建简单KV存储应用
+# 用tendermint构建简单KV存储应用
 
 ## 编译
 ```shell
